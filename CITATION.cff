@@ -3,13 +3,13 @@ message: "If you use this repository or its accompanying supplemental materials,
 authors:
 - family-names: "Gamble"
   given-names: "Cooper"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
+  orcid: "https://orcid.org/0009-0009-5139-4875"
 - family-names: "Faghani"
   given-names: "Shahriar"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
+  orcid: "https://orcid.org/0000-0003-3275-2971"
 - family-names: "Erickson"
   given-names: "Bradley J."
-  orcid: ""
+  orcid: "https://orcid.org/0000-0001-7926-6095"
 title: "Toolkit for Mondrian Conformal Prediction in Radiology"
 version: 1.0.0
 date-released: 2024-01-10
@@ -19,13 +19,13 @@ preferred-citation:
   authors:
   - family-names: "Gamble"
     given-names: "Cooper"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
+    orcid: "https://orcid.org/0009-0009-5139-4875"
   - family-names: "Faghani"
     given-names: "Shahriar"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
+    orcid: "https://orcid.org/0000-0003-3275-2971"
   - family-names: "Erickson"
     given-names: "Bradley J."
-    orcid: ""
+    orcid: "https://orcid.org/0000-0001-7926-6095"
   doi: "10.0000/00000"
   journal: "Radiology: Artificial Intelligence"
   month: 1
