@@ -10,4 +10,4 @@ This repository contains a toolkit for implementing Mondrian conformal predictio
 ## Usage
 
 ## Citation
-If you find this work useful, please use the appropriate citation format by clicking "Cite this repository" on the right-hand side of your screen.
+If you find this work useful, please use the appropriate citation format by clicking "Cite this repository" in the About section.
