@@ -1,3 +1,6 @@
+# Step 1: Calibration
+You should begin this step by running your model on your calibration dataset and saving the results according to the formatting described below. If you are using a YOLO model, you should set the following arguments to avoid default filtering operaitons:  ```conf=0 iou=1 max_det=10000```. If you are using another model, set the necessary parameters to acquire as many predictions per sample as possible.
+
 ## Prerequisites
 - [ ] A directory of ```.txt``` files named according to their instance identifier (i.e., ```SOPInstanceUID``` for DICOM-encoded datasets, or simply the patient, scan, and slice number for other encodings). 
     - Each file should contain line-separated predictions for your calibration dataset.
