@@ -11,7 +11,7 @@ This repository contains a toolkit for implementing Mondrian conformal predictio
 
 ## Citation
 If you find this work useful, please consider citing the parent project:
-```
+```tex
 @article{Gamble_Toward_Clinically_Trustworthy_2024,
 author = {Gamble, Cooper and Faghani, Shahriar and Erickson, Bradley J.},
 doi = {10.0000/00000},
