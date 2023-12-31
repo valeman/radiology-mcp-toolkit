@@ -12,8 +12,8 @@ This repository contains a toolkit for implementing Mondrian conformal predictio
 ## Usage
 #### Setup and Installation
 1. It is strongly encouraged that you have access to a GPU to accelerate your model training and inference time. If you have already trained a model or are using our weights, inference is possible on a CPU but it will be markedly slower.
-2. Clone this repository by running the following command: 
-3. Create an environment with Python version ```3.8.16``` using your desired Python dependency manager. (e.g., ```bash ```)
+2. Clone this repository by running the following command: ```git clone https://github.com/c-gamble/radiology-mcp-toolkit.git```
+3. Create an environment with Python version ```3.8.16``` using your desired Python dependency manager.
 4. Activate your new environment and ensure it is stable.
 5. Install all required dependencies by running ```pip install -r requirements.txt```
 #### Getting Ready for Conformal Prediction

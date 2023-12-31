@@ -1,0 +1,7 @@
+## Prerequisites
+- [ ] Directory of ```.txt``` files named according to their instance identifier (i.e., ```SOPInstanceUID``` for DICOM-encoded datasets, or simply the patient, scan, and slice number for other encodings). Each file should contain line-separated predictions for your calibration dataset. Each line should contain a space-separated label and bounding box. The label should be a single integer between 0 and the number of classes in your task minus 1, inclusive. The bounding box should be in normalized ```xywh``` form. For YOLO models, this is accessible via the ```results.boxes.xywhn``` field. For other use cases, the ```(x, y)``` ordered pair corresponds to the normalized center of the predicted bounding box. ```w``` is the width and ```h``` is the height, also both normalized to the image size.
+## Return Values
+- [x] ```.csv``` file with the following headers:
+    - ```Sample```: the name of a given sample.
+    - ```{Class} Presence```: For each class, the calibration score for its presence.
+    - ```{Class} Absence```: For each class, the calibration score for its absence.
