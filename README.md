@@ -10,17 +10,4 @@ This repository contains a toolkit for implementing Mondrian conformal predictio
 ## Usage
 
 ## Citation
-If you find this work useful, please consider citing the parent project:
-```tex
-@article{Gamble_Toward_Clinically_Trustworthy_2024,
-author = {Gamble, Cooper and Faghani, Shahriar and Erickson, Bradley J.},
-doi = {10.0000/00000},
-journal = {Radiology: Artificial Intelligence},
-month = jan,
-number = {1},
-pages = {1--10},
-title = {{Toward Clinically Trustworthy Deep Learning: Applying Conformal Prediction to Intracranial Hemorrhage Detection}},
-volume = {1},
-year = {2024}
-}
-```
+If you find this work useful, please use the appropriate citation format by clicking "Cite this repository" on the right-hand side of your screen.
