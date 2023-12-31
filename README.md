@@ -3,10 +3,11 @@ This repository contains a toolkit for implementing Mondrian conformal predictio
 
 ## Features
 - Sample inference script for multilabel hemorrhage detection on head CT slices using MCP 
-- Weights for state-of-the-art ICH detection YOLOv8 model
+- Weights for state-of-the-art ICH detection YOLOv8 model (downloaded [here](https://cq500-mcp.s3.amazonaws.com/yolo-v8-final-weights.pt))
 - Detailed descriptions of methods (via comments) for each major step of the MCP process
-- Accompanying figures to demonstrate MCP and further explain the implementation
+- Accompanying figures to demonstrate MCP and videos to further explain the implementation
 - Instructions for applying our MCP methodology to other use cases
 ## Usage
 
 ## Citation
+If you find this work useful, please consider citing the parent project:
