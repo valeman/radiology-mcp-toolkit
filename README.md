@@ -5,7 +5,8 @@ This repository contains a toolkit for implementing Mondrian conformal predictio
 - Sample inference script for multilabel application of MCP with CT slices
 - Weights for state-of-the-art ICH detection YOLOv8 model
 - Detailed descriptions of methods (via comments) for each major step of the MCP process
-- Paper figures with explanations
+- Accompanying figures to demonstrate MCP and further explain the implementation
+- Instructions for applying our MCP methodology to other use cases
 ## Usage
 
 ## Citation
